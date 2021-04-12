@@ -6,6 +6,11 @@ Flow Chart
 
 ![image](https://user-images.githubusercontent.com/80813102/114462802-2be10680-9c01-11eb-9914-a7e05da967ab.png)
 
+State diagram
+
+![image](https://user-images.githubusercontent.com/80813102/114464307-369c9b00-9c03-11eb-9199-38cd8bc6668d.png)
+
+
 Usecase Diagram
 
 ![image](https://user-images.githubusercontent.com/80813102/114463933-b83ff900-9c02-11eb-8d71-28b838f69d9b.png)
