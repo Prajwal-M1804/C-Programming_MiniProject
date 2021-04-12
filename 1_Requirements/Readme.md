@@ -83,6 +83,10 @@ diagonal. If all the cells become filled the game is a draw.
 
 # High Level Requirements:
 
+|    |    |
+|-----|----|
+|     |     |
+
 
 
 # Low level Requirements:
