@@ -100,10 +100,21 @@ diagonal. If all the cells become filled the game is a draw.
 
 # High Level Requirements:
 
-|    |    |
-|-----|----|
-|     |     |
+| ID   |Description|Category|Status(Implemented/Future)|
+|------|-----------|--------|------|
+| HR01 |           | Gaming |      |
+| HR02 |           | Gaming |      |
+| HR03 |           | Gaming |      |
 
 
 
 # Low level Requirements:
+
+| ID   |Description|Status(Implemented/Future) |
+|------|-----------|------ |
+| LR01 |           |       |
+| LR02 |           |       |
+| LR03 |           |       |
+
+
+
