@@ -24,5 +24,7 @@ The goal of the game is for players to position their marks so that they make a 
 # Detail requirements
 
 # High Level Requirements:
+![image](https://user-images.githubusercontent.com/80813102/114388617-8e121b00-9bb1-11eb-9416-40c66958d92d.png)
+
 
 # Low level Requirements:
