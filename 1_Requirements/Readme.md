@@ -46,6 +46,16 @@ useful later in the game in setting up other leads or for the creation of forks.
 
 # Defining Our System
 
+![image](https://user-images.githubusercontent.com/80813102/114451831-54630380-9bf5-11eb-9d04-a7f3c0749819.png)
+
+Tic Tac Toe is a zero-sum and perfect information game. It means that each participant's gain is equal to the other participants' losses and we know everything about the current game state. In a two-player (A vs B) game, if player A scores x points (utility units), player B loses x points.
+
+![image](https://user-images.githubusercontent.com/80813102/114452439-10243300-9bf6-11eb-8aa1-21bd8f21c479.png)
+
+
+
+
+
 # SWOT ANALYSIS
 ![image](https://user-images.githubusercontent.com/80813102/114412611-e30e5b00-9bca-11eb-9b72-160eb0885c27.png)
 
