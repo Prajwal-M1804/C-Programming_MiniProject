@@ -4,7 +4,7 @@
 
 |Test ID | Description | Exp I/P | Exp O/P |
 |--------|-------------|---------|---------|
-|H_01    |             |         |         |
+|H_01    |  Check if the 3X3 playing field is created or not           |    NA     |      3X3 playing field   |
 |H_02    |             |         |         |
 |H_03    |             |         |         |
 
