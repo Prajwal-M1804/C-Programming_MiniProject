@@ -23,6 +23,11 @@ Game tree
 
 # Low Level Design
 
+Flow Chart
+
+![image](https://user-images.githubusercontent.com/80813102/114465683-11109100-9c05-11eb-89a6-ea89f32a29e2.png)
+
+
 Game tree
 
 ![image](https://user-images.githubusercontent.com/80813102/114462448-ab220a80-9c00-11eb-9c6a-ff39c2630c0f.png)
