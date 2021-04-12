@@ -100,11 +100,11 @@ diagonal. If all the cells become filled the game is a draw.
 
 # High Level Requirements:
 
-| ID   |Description|Category|Status(Implemented/Future)|
+| ID   |Description|Status(Implemented/Future)|
 |------|-----------|--------|------|
-| HR01 |   The first player to get 3 of her marks in a row (up, down, across, or diagonally) is the winner.        | Gaming |      |
+| HR01 |   The first player to get 3 of her marks in a row (up, down, across, or diagonally) is the winner.        |       |
 | HR02 | When all 9 squares are full, the game is over          | Gaming |      |
-| HR03 |  If no player has 3 marks in a row, the game ends in a tie.         | Gaming |      |
+| HR03 |  If no player has 3 marks in a row, the game ends in a tie.         |     |
 
 
 
