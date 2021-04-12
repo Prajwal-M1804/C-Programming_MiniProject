@@ -1,4 +1,4 @@
-## Requirements
+# Requirements
 
 # Introduction
 Tic-Tac-Toe is a well known game played by two
