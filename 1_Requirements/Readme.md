@@ -44,6 +44,13 @@ useful later in the game in setting up other leads or for the creation of forks.
 
 # Cost and Features
 
+The cost requires only for software development and implementation of the software.
+
+The game is played on a grid that's 3 squares by 3 squares.
+You are X, your friend (or the computer in this case) is O. Players take turns putting their marks in empty squares.
+The first player to get 3 of her marks in a row (up, down, across, or diagonally) is the winner.
+When all 9 squares are full, the game is over.
+
 # Defining Our System
 
 ![image](https://user-images.githubusercontent.com/80813102/114451831-54630380-9bf5-11eb-9d04-a7f3c0749819.png)
