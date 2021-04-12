@@ -1,6 +1,6 @@
 # Requirements
 
-# Introduction
+## Introduction
 Tic-Tac-Toe is a well known game played by two
 persons who alternately place X's and O's upon a 3x3 playing field.
 The players first decide who will mark his moves
@@ -10,7 +10,7 @@ The object of the game is to be the first player with 3
 marks in a row, where a row can be either vertical, horizontal, or
 diagonal. If all the cells become filled the game is a draw.
 
-# Research
+## Research
 
 FUNDAMENTAL THEOREM
 
@@ -44,7 +44,7 @@ useful later in the game in setting up other leads or for the creation of forks.
 
 
 
-# Cost and Features
+## Cost and Features
 
 The cost requires only for software development and implementation of the software.
 
@@ -53,7 +53,7 @@ You are X, your friend (or the computer in this case) is O. Players take turns p
 The first player to get 3 of her marks in a row (up, down, across, or diagonally) is the winner.
 When all 9 squares are full, the game is over.
 
-# Defining Our System
+## Defining Our System
 
 ![image](https://user-images.githubusercontent.com/80813102/114451831-54630380-9bf5-11eb-9d04-a7f3c0749819.png)
 
@@ -65,29 +65,29 @@ Tic Tac Toe is a zero-sum and perfect information game. It means that each parti
 
 
 
-# SWOT ANALYSIS
+## SWOT ANALYSIS
 ![image](https://user-images.githubusercontent.com/80813102/114412611-e30e5b00-9bca-11eb-9b72-160eb0885c27.png)
 
 
 # 4W's and 1'H
 
-# Who:
+## Who:
   This game was played between students and even experts to check there logical thinking.
 
-# What:
+## What:
 This game is about the first player with 3
 marks in a row, where a row can be either vertical, horizontal, or
 diagonal will win the game. If all the cells become filled the game is a draw.
 
-# When:
+## When:
 
 This game is played in a short interval of time when the two players are decided to pass the boring time or challenge who will win among themself.
 
-# Where:
+## Where:
 
 This game was usually played in paper,mobile and Pc.
 
-# How:
+## How:
 
 The players first decide who will mark his moves
 with an X and who will go first. Play proceeds with the opponents
@@ -100,7 +100,7 @@ diagonal. If all the cells become filled the game is a draw.
 
 # Detail requirements
 
-# High Level Requirements:
+## High Level Requirements:
 
 | ID   |Description|Status(Implemented/Future)|
 |------|-----------|------|
@@ -110,7 +110,7 @@ diagonal. If all the cells become filled the game is a draw.
 
 
 
-# Low level Requirements:
+## Low level Requirements:
 
 | ID   |Description|Status(Implemented/Future) |
 |------|-----------|------ |
