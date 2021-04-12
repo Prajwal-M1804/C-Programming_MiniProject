@@ -114,12 +114,7 @@ diagonal. If all the cells become filled the game is a draw.
 
 | ID   |Description|Status(Implemented/Future) |
 |------|-----------|------ |
-| LR01 | The players first decide who will mark his moves
-with an X and who will go first. Play proceeds with the opponents
-alternately placing their marks in any unoccupied cell 
-The object of the game is to be the first player with 3
-marks in a row, where a row can be either vertical, horizontal, or
-diagonal.          | TBD      |
+| LR01 | The players first decide who will mark his moves with an X and who will go first. Play proceeds with the opponents alternately placing their marks in any unoccupied               cell The object of the game is to be the first player with 3 marks in a row, where a row can be either vertical, horizontal, or diagonal.                              | TBD      |
 | LR02 |  When the 9 squares are full,the game is over and no player can get the 3 marks in a row the game is draw if any one of the player get the 3 marks in a row that player will win the game         |  TBD     |
 | LR03 |    when all 9 squares are full and if no player has 3 marks in a row , the game will ends in a tie/draw       |    TBD   |
 
