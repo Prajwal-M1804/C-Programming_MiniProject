@@ -14,6 +14,6 @@
 
 |Test ID | Description | Exp I/P | Exp O/P |
 |--------|-------------|---------|---------|
-|L_01    | Check if the basic requirement to the game  (3x3 playing field) is created or not.This 3X3 is the first step in the program to play the game |    Not expected any input                     from the user     |  3X3 playing field       |
+|L_01    | Check if the basic requirement to the game  (3x3 playing field) is created or not.This 3X3 squares is the first step in the program to play the game |    Not expected                   any input from the user |  3X3 playing field  |
 |L_02    |             |         |         |
 |L_03    |             |         |         |
