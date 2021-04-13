@@ -59,6 +59,15 @@ When all 9 squares are full, the game is over.
 
 Tic Tac Toe is a zero-sum and perfect information game. It means that each participant's gain is equal to the other participants' losses and we know everything about the current game state. In a two-player (A vs B) game, if player A scores x points (utility units), player B loses x points.
 
+Tic-Tac-Toe is a  game played by two
+persons who alternately place X's and O's upon a 3x3 playing field.
+The players first decide who will mark his moves
+with an X and who will go first. Play proceeds with the opponents
+alternately placing their marks in any unoccupied cell 
+The object of the game is to be the first player with 3
+marks in a row, where a row can be either vertical, horizontal, or
+diagonal. If all the cells become filled the game is a draw.
+
 ![image](https://user-images.githubusercontent.com/80813102/114452439-10243300-9bf6-11eb-8aa1-21bd8f21c479.png)
 
 
