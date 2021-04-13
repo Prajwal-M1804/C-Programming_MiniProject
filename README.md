@@ -24,5 +24,5 @@ Tic-tac-toe
 ## Challenges Faced and How Was It Overcome
 
 ## Learning Resources
-1. markdowncheatsheet
+1. https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
