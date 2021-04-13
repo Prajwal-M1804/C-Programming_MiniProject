@@ -25,4 +25,5 @@ Tic-tac-toe
 
 ## Learning Resources
 1. https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+2. https://www.wikihow.com/Play-Tic-Tac-Toe
 
