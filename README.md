@@ -18,7 +18,10 @@ Tic-tac-toe
 ## Contributors List and Summary
 
 |SF Id.  |	Name|	Features|	Issuess Raised|	Issues Resolved|	No Test Cases|	Test Case Pass|
+|--------|------|---------|---------------|----------------|---------------|----------------|
 |	259879	|Prajwal M|Feature A, B etc|	X No	|X No|	X No|	X No|
 
 ## Challenges Faced and How Was It Overcome
+
+## Learning Resources
 
