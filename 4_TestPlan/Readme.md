@@ -15,5 +15,5 @@
 |Test ID | Description | Exp I/P | Exp O/P |
 |--------|-------------|---------|---------|
 |L_01    | Check if the basic requirement to the game  (3x3 playing field) is created or not.This 3X3 squares is the first step in the program to play the game |    Not expected                   any input from the user |  3X3 playing field  |
-|L_02    |             |         |         |
+|L_02    |  Play proceeds with the opponents alternately placing their marks in any unoccupied cell. check if any player finishes  with 3 marks in a row, where a row can be either                  vertical, horizontal, or diagonal. |   'X' or 'o' i/p from the two players alternatively      |   The player 1/2 won the game.      |
 |L_03    |             |         |         |
