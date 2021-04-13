@@ -19,7 +19,7 @@ Tic-tac-toe
 
 |SF Id.  |	Name|	Features|	Issuess Raised|	Issues Resolved|	No Test Cases|	Test Case Pass|
 |--------|------|---------|---------------|----------------|---------------|----------------|
-|	259879	|Prajwal M|Feature A, B etc|	X No	|X No|	X No|	X No|
+|	259879	|Prajwal M|Feature A, B etc|	 No	|No|	--|	--|
 
 ## Challenges Faced and How Was It Overcome
 
