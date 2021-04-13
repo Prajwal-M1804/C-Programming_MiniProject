@@ -75,7 +75,7 @@ Tic Tac Toe is a zero-sum and perfect information game. It means that each parti
   This game was played between students and even experts to check there logical thinking.
 
 ## What:
-This game is about the first player with 3
+This game is played for enjoyment.This game is about the first player with 3
 marks in a row, where a row can be either vertical, horizontal, or
 diagonal will win the game. If all the cells become filled the game is a draw.
 
