@@ -1,6 +1,6 @@
 # Design
 
-# High Level Design
+## High Level Design
 
 Flow Chart
 
@@ -23,7 +23,7 @@ Game tree
 
 
 
-# Low Level Design
+## Low Level Design
 
 Flow Chart
 
