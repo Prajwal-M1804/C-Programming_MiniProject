@@ -22,6 +22,7 @@ Tic-tac-toe
 |	259879	|Prajwal M|The game is played on a grid that's 3 squares by 3 squares.|	 No	|No|	--|	--|
 
 ## Challenges Faced and How Was It Overcome
+----
 
 ## Learning Resources
 1. https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
