@@ -72,7 +72,7 @@ Tic Tac Toe is a zero-sum and perfect information game. It means that each parti
 # 4W's and 1'H
 
 ## Who:
-  This game was played between students and even experts to check there logical thinking.
+  This game was played between students and even experts to check there logical thinking.Normaly anybody can play this tic tac toe game.
 
 ## What:
 This game is played for enjoyment.This game is about the first player with 3
