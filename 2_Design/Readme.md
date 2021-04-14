@@ -13,7 +13,9 @@ State diagram
 
 Usecase Diagram
 
-![image](https://user-images.githubusercontent.com/80813102/114463933-b83ff900-9c02-11eb-8d71-28b838f69d9b.png)
+![image](https://user-images.githubusercontent.com/80813102/114774346-bb1b2500-9d8d-11eb-84fb-0d8ba69ec1a0.png)
+
+
 
 
 Game tree
