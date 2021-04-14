@@ -38,3 +38,10 @@ Game tree
 
 ![image](https://user-images.githubusercontent.com/80813102/114462448-ab220a80-9c00-11eb-9c6a-ff39c2630c0f.png)
 
+
+Behavioral Diagram
+
+
+![image](https://user-images.githubusercontent.com/80813102/114748117-36211300-9d6f-11eb-95d9-27b66e8eda2b.png)
+
+
