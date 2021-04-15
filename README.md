@@ -3,7 +3,7 @@ Tic-tac-toe
 
 |Build | Code Quality |  Unity |  [Git Inspector] (using github.io option) |
 |---------|-----------------|------------|---------------------------------------------|
-|         |                 |            |                                             |
+|         |    [![Code Quality - Static Code - Cppcheck](https://github.com/Prajwal-M1804/C-Programming_MiniProject/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Prajwal-M1804/C-Programming_MiniProject/actions/workflows/cppcheck.yml)             |            |                                             |
 
 
 ## Folder Structure
