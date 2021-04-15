@@ -1,8 +1,8 @@
 #include "unity.h"
-#include <ttt_operations.c>
+
 
 /* Modify these two lines according to the project */
-#include <ttt_operations.h>
+#include "ttt_operations.h"
 #define PROJECT_NAME    "ttt"
 
 /* Prototypes for all the test functions */
