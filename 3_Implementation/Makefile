@@ -5,7 +5,7 @@ PROJECT_NAME = Tic-tac-toe
 BUILD = build
 
 # All source code files
-SRC = project_main.c\
+SRC = project_main.c\inc/ttt_operations.h
 src/ttt_operations.c
 
 # All test source files
