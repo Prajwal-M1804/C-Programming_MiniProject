@@ -32,6 +32,9 @@ Tic-tac-toe
 |--------|------|---------|---------------|----------------|---------------|----------------|
 |	259879	|Prajwal M|The game is played on a grid that's 3 squares by 3 squares.|	 No	|No|	3|	3|
 
+# Challenges Faced and How Was It Overcome
+1.Challenges faced in implementing the learnings and solving the errors in the program,Some of the challenges are overcomed by trying again and again.
+
 
 
 ## Learning Resources
