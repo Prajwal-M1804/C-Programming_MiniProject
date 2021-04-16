@@ -2,7 +2,7 @@
 
 
 /* Modify these two lines according to the project */
-#include "ttt_operations.h"
+#include "tttoperations.h"
 #define PROJECT_NAME    "ttt"
 
 /* Prototypes for all the test functions */
