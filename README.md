@@ -30,7 +30,7 @@ Tic-tac-toe
 
 |SF Id.  |	Name|	Features|	Issuess Raised|	Issues Resolved|	No Test Cases|	Test Case Pass|
 |--------|------|---------|---------------|----------------|---------------|----------------|
-|	259879	|Prajwal M|The game is played on a grid that's 3 squares by 3 squares.|	 No	|No|	9|	9|
+|	259879	|Prajwal M|The game is played on a grid that's 3 squares by 3 squares.|	 No	|No|	3|	3|
 
 
 
