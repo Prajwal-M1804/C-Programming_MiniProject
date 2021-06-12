@@ -6,7 +6,7 @@ BUILD = build
 
 # All source code files
 SRC = project_main.c\
-src/ttt_operations.c
+src/ttt_operations.c\
 
 # All test source files
 TEST_SRC = src/ttt_operations.c\
